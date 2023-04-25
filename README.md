@@ -1,4 +1,4 @@
 # Insta_Clone
 
-#This code is made by Raihana
+#this code is made by raihana
 #here this code is made for home content
